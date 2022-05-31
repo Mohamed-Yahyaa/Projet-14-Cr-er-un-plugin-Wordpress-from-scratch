@@ -1,1 +1,1 @@
-# Projet-14-Cr-er-un-plugin-Wordpress-from-scratch
+# Projet-14-Creer-un-plugin-Wordpress-from-scratch
